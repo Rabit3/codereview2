@@ -17,7 +17,7 @@ import java.util.Random;
  * @see Game
  * @see User
  */
-public class Bet {
+public class Bet mahad sucks {
 
     private Game game;
     private String betTeam;
