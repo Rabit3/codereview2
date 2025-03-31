@@ -17,7 +17,7 @@ import java.util.Objects;
  */
 public class Game {
 
-    private String team1 ;
+    private String team1;
     private String team2;
     private Date startDate;
     private Date endDate;
